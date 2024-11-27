@@ -1,0 +1,10 @@
+params:
+  homeInfoParams:
+    Title: Bienvenido 👋
+    Content: Aquí podrás leer cosas interesantes desde filsofía, política y desarrollo web.
+
+  # socialIcons: # optional
+  #   - name: "<platform>"
+  #     url: "<link>"
+  #   - name: "<platform 2>"
+  #     url: "<link2>"
