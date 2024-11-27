@@ -1,5 +1,5 @@
 baseurl = "https://javierjimenez2.github.io/jjrblog/"
-languageCode = "es-es"
+languageCode = "es"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "papermod"
@@ -54,11 +54,11 @@ paginate = 5
   site = ""
 
 [languages]
-  [languages.en]
+  [languages.es]
     languageName = "Español"
     title = "JJR Blog"
 
-    [languages.en.params]
+    [languages.es.params]
       subtitle = "Blog de un pensador que desarrolla"
       owner = ""
       keywords = ""
@@ -73,16 +73,16 @@ paginate = 5
       minuteReadingTime = "min read"
       words = "words"
 
-      [languages.en.params.logo]
+      [languages.es.params.logo]
         logoText = "JJR Blog"
         logoHomeLink = "/"
 
-      [languages.en.menu]
-        [[languages.en.menu.main]]
+      [languages.es.menu]
+        [[languages.es.menu.main]]
           identifier = "about"
-          name = "About"
+          name = "Acerca de"
           url = "/about"
-      #  [[languages.en.menu.main]]
+      #  [[languages.es.menu.main]]
       #    identifier = "showcase"
       #    name = "Showcase"
       #    url = "/showcase"
