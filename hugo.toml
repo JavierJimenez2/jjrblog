@@ -25,7 +25,7 @@ paginate = 5
     [languages.es.params]
       subtitle = "Blog de un pensador que desarrolla"
       owner = ""
-      keywords = ""
+      keywords = ["blog", "development", "technology"]
       copyright = ""
       menuMore = "Mostrar más"
       readMore = "Leer más"
@@ -53,7 +53,7 @@ paginate = 5
     [languages.en.params]
       subtitle = "A thinker’s blog"
       owner = "Javier Jiménez"
-      keywords = "blog, development, technology"
+      keywords = ["blog", "development", "technology"]
       copyright = "All rights reserved"
       menuMore = "Show more"
       readMore = "Read more"
