@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on JJR Blog</title>
-    <link>/post/</link>
+    <link>https://javierjimenez2.github.io/jjrblog/post/</link>
     <description>Recent content in Posts on JJR Blog</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://javierjimenez2.github.io/jjrblog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La vida es hacer o ser</title>
-      <link>/post/la-vida-es-hacer-o-ser/</link>
+      <link>https://javierjimenez2.github.io/jjrblog/post/la-vida-es-hacer-o-ser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/la-vida-es-hacer-o-ser/</guid>
+      <guid>https://javierjimenez2.github.io/jjrblog/post/la-vida-es-hacer-o-ser/</guid>
       <description>&lt;h2 id=&#34;vida-ante-nosotros&#34;&gt;Vida ante nosotros&lt;/h2&gt;
 &lt;p&gt;Empiezo este blog con esta idea en la cabeza, la vida es hacer o ser. Pero antes que nada me gustaría poder explicar porqué estoy haciendo esto, mi nombre es JR, y estudio ingeniería informática, espera, que hace un ingeniero informático escribiendo, la misma pregunta me hago yo, pero aquí estoy.
 Recientemente vi un video de un Youtuber llamado NetworkChuck, hablando sobre la importancia de escribir, y pienso que es una realidad, pasamos mucho tiempo en frente de las pantallas, automatizando procesos (Me pongo como ejemplo) y no nos damos cuenta que la vida está pasando mientras creamos un script para hacer más rápido algo de nuestra vida.&lt;/p&gt;</description>
