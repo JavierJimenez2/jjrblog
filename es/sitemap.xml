@@ -2,40 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://javierjimenez2.github.io/jjrblog/es/categories/</loc>
+    <loc>https://javierjimenez2.github.io/jjrblog/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://javierjimenez2.github.io/jjrblog/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://javierjimenez2.github.io/jjrblog/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://javierjimenez2.github.io/jjrblog/es/categories/"
-                />
   </url><url>
-    <loc>https://javierjimenez2.github.io/jjrblog/es/</loc>
+    <loc>https://javierjimenez2.github.io/jjrblog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://javierjimenez2.github.io/jjrblog/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://javierjimenez2.github.io/jjrblog/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://javierjimenez2.github.io/jjrblog/es/"
-                />
   </url><url>
-    <loc>https://javierjimenez2.github.io/jjrblog/es/tags/</loc>
+    <loc>https://javierjimenez2.github.io/jjrblog/posts/la-vida-es-hacer-o-ser-primera-entrada-del-blog/</loc>
+  </url><url>
+    <loc>https://javierjimenez2.github.io/jjrblog/posts/</loc>
+  </url><url>
+    <loc>https://javierjimenez2.github.io/jjrblog/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://javierjimenez2.github.io/jjrblog/tags/"
+                href="https://javierjimenez2.github.io/jjrblog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://javierjimenez2.github.io/jjrblog/es/tags/"
+                href="https://javierjimenez2.github.io/jjrblog/tags/"
                 />
+  </url><url>
+    <loc>https://javierjimenez2.github.io/jjrblog/tags/vida/</loc>
   </url>
 </urlset>
