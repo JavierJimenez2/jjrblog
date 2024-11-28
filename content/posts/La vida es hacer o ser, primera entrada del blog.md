@@ -1,5 +1,5 @@
 ---
-title: La vida es hacer o ser
+title: La vida es hacer o ser, primera entrada del blog
 day: 2024-11-27
 tags:
   - vida

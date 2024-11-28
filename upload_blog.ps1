@@ -63,7 +63,7 @@ if (-not (Test-Path $destinationPath)) {
 }
 
 $sourcePath1 = $sourcePath + "\posts"
-$destinationPath1 = $destinationPath + "\content\post"
+$destinationPath1 = $destinationPath + "\content\posts"
 
 # Use Robocopy to mirror the directories
 $robocopyOptions = @('/MIR', '/Z', '/W:5', '/R:3')
@@ -108,7 +108,7 @@ if (-not $hasChanges) {
 }
 
 # Step 6: Commit changes with a dynamic message
-$commitMessage = "New Blog Post on $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+$commitMessage = "New Blog Post on $(Get-Date -Format 'dd/MM/yyyy HH:mm:ss')"
 $hasStagedChanges = (git diff --cached --name-only) -ne ""
 if (-not $hasStagedChanges) {
     Write-Host "No changes to commit."
