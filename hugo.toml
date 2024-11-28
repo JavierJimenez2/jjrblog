@@ -1,6 +1,6 @@
 baseurl = "https://javierjimenez2.github.io/jjrblog/"
 languageCode = "es"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 theme = "papermod"
 paginate = 5
 

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on JJR Blog</title>
-    <link>https://javierjimenez2.github.io/jjrblog/categories/</link>
+    <link>https://javierjimenez2.github.io/jjrblog/en/categories/</link>
     <description>Recent content in Categories on JJR Blog</description>
     <generator>Hugo -- 0.139.2</generator>
-    <language>es</language>
-    <atom:link href="https://javierjimenez2.github.io/jjrblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://javierjimenez2.github.io/jjrblog/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
